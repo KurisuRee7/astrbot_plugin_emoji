@@ -1,0 +1,6 @@
+name: astrbot_plugin_emoji # 这是你的插件的唯一识别名。
+desc: 可以创建一个表情。 # 插件简短描述
+help: 发送指令@小伙伴以创建一个表情包。 # 插件的帮助信息
+version: v1.0.0 # 插件版本号。格式：v1.1.1 或者 v1.1
+author: KurisuRee7 # 作者
+repo: none # 插件的仓库地址
